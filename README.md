@@ -1,5 +1,6 @@
 # Sentiment Analysis of Twitter data
 
+- Project: "Analysis of the sentiment of Twitter posts", I used for the final work after the first cycle of education at the Faculty of Information Technology Mostar (for obtaining a Bachelor of Information Technology degree).
 - The project was written in Python
 
 To work on this project You need to do next steps:
