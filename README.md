@@ -2,7 +2,7 @@
 
 To work on this project You need to do next steps:
 
-- Install to Anacond
+- Install to Anaconda
 - Install the Jupyter Notebook through Anaconda cmd, which was used as a project creation environment
 
 - Register a Twitter application to collect the necessary credentials
