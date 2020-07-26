@@ -1,5 +1,7 @@
 # Sentiment Analysis of Twitter data
 
+- The project was written in Python
+
 To work on this project You need to do next steps:
 
 - Install to Anaconda
